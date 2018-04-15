@@ -11,3 +11,4 @@ If you want to test your own image, just place your image in the Rating_Collecti
 the test part.
 The model and training process are included in the model.py ,which locates in the file of Rating collection.
 The dataset is consisted of two files, the Data_collection and Rating collection.
+The original dataset can be downloaded here: http://www.hcii-lab.net/data/SCUT-FBP/EN/download.html
